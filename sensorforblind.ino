@@ -1,6 +1,6 @@
 /*-------------------------------------------------------*/
 /*Name : New eye Using Arduino and ESP-32 */
-/*Project By: Ritik Pandey and Ridhish Sheladiya          */
+/*Project By: Ritik Pandey          */
 /*Last Edited: 2022-06-29                                */
 /*-------------------------------------------------------*/
 /*-------------------------------------------------------*/
